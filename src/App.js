@@ -2,7 +2,6 @@ import React from 'react';
 import SimpleForm from './SimpleForm';
 import './App.css';
 
-
 const App = (props) => {
     return (
       <>

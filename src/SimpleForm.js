@@ -108,19 +108,19 @@ class SimpleForm extends Component {
             },
 
             {id:'ipa',
-            message: 'A1 When you Accept the invitstion from us,that day is your internship start date',
+            message: 'When you Accept the invitstion from us,that day is your internship start date',
             trigger:'submore4'},
             {id:'ip1a',
-            message: 'A2 The IP is of 3 months from start day if your Ip',
+            message: 'The IP is of 3 months from start day if your Ip',
             trigger:'submore4'},
             {id:'ip2a',
-            message: 'A3 The interns have to know the basics of programming',
+            message: 'The interns have to know the basics of programming',
             trigger:'submore4'},
             {id:'ip3a',
-            message: 'A4 The student must have computer/IT background',
+            message: 'The student must have computer/IT background',
             trigger:'submore4'},
             {id:'ip4a',
-            message: 'A4 Please Message  "Cloud Couselage HR" in Bitrix24',
+            message: 'Please Message  "Cloud Couselage HR" in Bitrix24',
             trigger:'submore4'},
 
             {
@@ -191,23 +191,23 @@ class SimpleForm extends Component {
 
             {
               id: 'lp1a',
-              message: 'A1 Please watch the videos shared with the invite and you should not face any problems in accessing the training. Please follow the protocol shown in the videos.',
+              message: 'Please watch the videos shared with the invite and you should not face any problems in accessing the training. Please follow the protocol shown in the videos.',
               trigger: 'submore5',
             },
             {
               id: 'lp12a',
-              message: 'A2  Yes, you need to register for every module of training. Some of you are facing login issues, we have kept the training visible without login',
+              message: 'Yes, you need to register for every module of training. Some of you are facing login issues, we have kept the training visible without login',
               
               trigger: 'submore5',
             },
             {
               id: 'lp13a',
-              message: 'A3 each training of LP1, there are different tokens. Please read the tasks or watch the videos again meticulously. Try accessing it in incognito mode.',
+              message: 'each training of LP1, there are different tokens. Please read the tasks or watch the videos again meticulously. Try accessing it in incognito mode.',
               trigger: 'submore5',
             },
             {
               id: 'lp14a',
-              message: 'A4 Ensure youre using the right token',
+              message: 'Ensure youre using the right token',
               trigger: 'subinput5',
             }, 
                     
@@ -240,7 +240,7 @@ class SimpleForm extends Component {
             },
             {
               id:'lp25',
-              message:'Q5  Can I do certification for the training provided in LP2? ',
+              message:'Q5 Can I do certification for the training provided in LP2? ',
               trigger:'subinput3',
             },          
             {
@@ -256,27 +256,27 @@ class SimpleForm extends Component {
             },           
             {
               id:'lp21a',
-              message:'1a Mark your task as finished and wait for the next instructions.',
+              message:'Mark your task as finished and wait for the next instructions.',
               trigger:'submore',
             },           
             {
               id:'lp22a',
-              message:'2a The main focus of LP2 is to provide you with a basic foundation of the technology youre interested in.',
+              message:'The main focus of LP2 is to provide you with a basic foundation of the technology youre interested in.',
               trigger:'submore',
             },           
             {
               id:'lp23a',
-              message:'3a LP1/ LP2/ LP3 is your preparation for the Live Project. All the phases LP1/ LP2/ LP3/ Live Project are a part of this internship.',
+              message:'LP1/ LP2/ LP3 is your preparation for the Live Project. All the phases LP1/ LP2/ LP3/ Live Project are a part of this internship.',
               trigger:'submore',
             },           
             {
               id:'lp24a',
-              message:'4a  To experience these high definition videos we request you to wait at least 5 minutes or more',
+              message:'To experience these high definition videos we request you to wait at least 5 minutes or more',
               trigger:'submore',
             },           
             {
               id:'lp25a',
-              message:'5a  Yes, Cloud Counselage has purposefully partnered with Edureka so as to enable our interns to get the advantage of the corporate benefits at no profit no loss basis ',
+              message:'Yes, Cloud Counselage has purposefully partnered with Edureka so as to enable our interns to get the advantage of the corporate benefits at no profit no loss basis ',
               trigger:'submore',
             },          
 
@@ -356,27 +356,27 @@ class SimpleForm extends Component {
 
             {
               id:'lip1a',
-              message:'A1 Your internship is complete after this. There is no stipend for live projects.',
+              message:'Your internship is complete after this. There is no stipend for live projects.',
               trigger:'submore3',
             },
             {
               id:'lip2a',
-              message:'A2 Projects in LP3 and Live Projects will be relevant to your training and ongoing projects in Cloud Counselage.',
+              message:'Projects in LP3 and Live Projects will be relevant to your training and ongoing projects in Cloud Counselage.',
               trigger:'submore3',
             },
             {
               id:'lip3a',
-              message:'A3 All the LP3/  Live Projects are on an individual scale.',
+              message:'All the LP3/  Live Projects are on an individual scale.',
               trigger:'submore3',
             },
             {
               id:'lip4a',
-              message:'A4 Live Projects will be provided by Cloud Counselage as these are the ongoing projects of Cloud Counselage and your opportunity to create an impact in the organisation.',
+              message:'Live Projects will be provided by Cloud Counselage as these are the ongoing projects of Cloud Counselage and your opportunity to create an impact in the organisation.',
               trigger:'submore3',
             },
             {
               id:'lip5a',
-              message:'A5 No, you will receive LP3 and Live Projects of your respective technology.',
+              message:'No, you will receive LP3 and Live Projects of your respective technology.',
               trigger:'submore3',
             },
             {
@@ -391,7 +391,7 @@ class SimpleForm extends Component {
             },
             {
               id:'lp32',
-              message:'Q2  When does the LP1/ LP2/ LP3 begin dates and deadline/ end date?',
+              message:'Q2 When does the LP1/ LP2/ LP3 begin dates and deadline/ end date?',
               trigger:'lp33',
             },
             {
@@ -419,24 +419,24 @@ class SimpleForm extends Component {
 
             {
               id:'lp31a',
-              message:'A1 Mark your task as finished and wait for the next instructions.',
+              message:'Mark your task as finished and wait for the next instructions.',
               trigger:'submore2',
             },           
             {
               id:'lp32a',
-              message:'A2 LP1 - 01/03/2020 LP2 - 18/03/2020 LP3 - 02/04/2020 ',
+              message:'LP1 - 01/03/2020 LP2 - 18/03/2020 LP3 - 02/04/2020 ',
               trigger:'submore2',
             },
             
             {
               id:'lp33a',
-              message:'A3  This assignment will be like a mini-project for all interns in a particular technology which will be verified by Cloud Counselage Project Managers.',
+              message:'This assignment will be like a mini-project for all interns in a particular technology which will be verified by Cloud Counselage Project Managers.',
               trigger:'submore2',
             },
            
             {
               id:'lp34a',
-              message:'A4 You ll be given preparatory leave (PL) from April to June after that your Live Projects will be given after the first week of June.',
+              message:'You ll be given preparatory leave (PL) from April to June after that your Live Projects will be given after the first week of June.',
               trigger:'submore2',
             },
                 

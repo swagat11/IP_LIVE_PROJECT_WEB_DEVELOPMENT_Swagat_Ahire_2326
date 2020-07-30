@@ -39,13 +39,6 @@ body {
        
 }
 
-.footer {
-    height: 400px;
-    text-align: center;
-    padding: 20px;
-    background-color: rgb(223, 223, 223);
-}
-
 .bot {
     bottom: 0;
     right: 0;
